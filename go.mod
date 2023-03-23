@@ -6,7 +6,7 @@ require (
 	github.com/chi-middleware/logrus-logger v0.2.0
 	github.com/go-chi/chi v1.5.4
 	github.com/go-chi/chi/v5 v5.0.3
-	github.com/go-chi/render v1.0.1
+	github.com/go-chi/render v1.0.2
 	github.com/matoous/go-nanoid/v2 v2.0.0
 	github.com/onrik/logrus v0.9.0
 	github.com/sirupsen/logrus v1.8.1
